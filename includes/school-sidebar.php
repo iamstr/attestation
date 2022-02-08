@@ -11,47 +11,8 @@
              <!-- Collapse -->
              <div class="collapse navbar-collapse" id="sidenav-collapse-main">
               
-                     <h6 class="navbar-heading p-0 text-muted">
-                         <span class="docs-normal">Agencies Details</span>
-                     </h6>
-                     <ul class="navbar-nav">
-                       
-                         <li class="nav-item">
-                             <a class="nav-link" href="view">
-                                 <i class="ni ni-bullet-list-67 text-success"></i>
-                                 <span class="nav-link-text">View Agency</span>
-                             </a>
-                         </li>
-
-
-                        
-                          </ul>
+                    
                 
-                     <!-- Divider -->
-                     <hr class="my-3">
-                     <!-- Heading -->
-                     <h6 class="navbar-heading p-0 text-muted">
-                         <span class="docs-normal">Reqeusts</span>
-                     </h6>
-
-                     <ul class="navbar-nav">
-
-                         <li class="nav-item">
-                             <a class="nav-link" href="requests">
-                                 <i class="ni ni-books text-primary"></i>
-                                 <span class="nav-link-text">New Request</span>
-                             </a>
-                         </li>
-
-                         <li class="nav-item">
-                             <a class="nav-link" href="old">
-                                 <i class="ni ni-laptop text-orange"></i>
-                                 <span class="nav-link-text">Old Request</span>
-                             </a>
-                         </li>
-
-
-                     </ul>
 
                 
             
@@ -59,7 +20,7 @@
                      <hr class="my-3">
                      <!-- Heading -->
                      <h6 class="navbar-heading p-0 text-muted">
-                         <span class="docs-normal">Travels</span>
+                         <span class="docs-normal">Uploads</span>
                      </h6>
 
                      <ul class="navbar-nav">
@@ -68,7 +29,12 @@
                          <li class="nav-item">
                              <a class="nav-link" href="old">
                                  <i class="ni ni-laptop text-orange"></i>
-                                 <span class="nav-link-text">View Travelled</span>
+                                 <span class="nav-link-text">View Uploads</span>
+                             </a>
+                         </li><li class="nav-item">
+                             <a class="nav-link" href="old">
+                                 <i class="ni ni-image text-danger"></i>
+                                 <span class="nav-link-text">New Uploads</span>
                              </a>
                          </li>
 
@@ -92,6 +58,8 @@
                          </li>
                         
                      </ul>
+
+           
 
                  
              </div>

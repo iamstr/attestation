@@ -10,88 +10,27 @@
             <div class="card">
                 <!-- Card header -->
                 <div class="card-header border-0">
-                    <h3 class="mb-0">NEW REQUESTS</h3>
+                    <h3 class="mb-0">ALL AGENCIES</h3>
                 </div>
                 <!-- Light table -->
                 <div class="table-responsive">
                     <table class="table align-items-center table-flush position-relative">
                         <thead class="thead-light">
                             <tr class="table-agent ">
-                                <th scope="col" class="sort position-sticky " style="top: 0px;" data-sort="CLIENT FULLNAME" data-toggle-table="CLIENT FULLNAME">CLIENT FULLNAME</th>
-                                <th scope="col" class="sort position-sticky " style="top: 0px;" data-sort="CLIENT IDNUMBER" data-toggle-table="CLIENT IDNUMBER">CLIENT IDNUMBER</th>
-                                <th scope="col" class="sort position-sticky " style="top: 0px;" data-sort="CLIENT PHONE" data-toggle-table="CLIENT PHONE">CLIENT PASSPORT</th>
-                                <th scope="col" class="sort position-sticky " style="top: 0px;" data-sort="CLIENT IDNUMBER" data-toggle-table="CLIENT IDNUMBER">AGENCY NAME</th>
-                                <th scope="col" class="sort position-sticky " style="top: 0px;" data-sort="CLIENT PHONE" data-toggle-table="CLIENT PHONE">SCHOOL NAME</th>
-                                <th scope="col" class="sort position-sticky " style="top: 0px;" data-sort="CLIENT PHONE" data-toggle-table="CLIENT PHONE">SCHOOL ADMISSION NUMBER</th>
-                                <th scope="col" class="sort position-sticky " style="top: 0px;" data-sort="CLIENT PHONE" data-toggle-table="CLIENT PHONE">GOOD CONDUCT NUMBER</th>
-                                <th class="position-sticky">Actions</th>
+                                <th scope="col" class="sort position-sticky " style="top: 0px;" data-sort="CLIENT FULLNAME" data-toggle-table="CLIENT FULLNAME">AGENCY NAME</th>
+                                <th scope="col" class="sort position-sticky " style="top: 0px;" data-sort="CLIENT PHONE" data-toggle-table="CLIENT PHONE">AGENCY EMAIL</th>
+                                 <th scope="col" class="sort position-sticky " style="top: 0px;" data-sort="CLIENT IDNUMBER" data-toggle-table="CLIENT IDNUMBER">LICENSE DATE OF EXPIRY</th>
+                                <th class="position-sticky"> LICENSE STATUS</th>
                             </tr>
                         </thead>
                         <tbody class="list">
                             <tr>
-                                <td>CHARO SANITA</td>
-                                <td>31044927</td>
-                                <td>12345667</td>
                                 <td>EWAJIBU</td>
-                                <td>TIMS</td>
-                                <td>E/2022/Q2</td>
-                                <td>PH-5THQ2</td>
-                                <td class="text-center" style="">
-                                    <div class="dropdown ">
-                                        <a class="btn btn-sm btn-icon-only text-light" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                                            <i class="fas fa-ellipsis-v"></i>
-                                        </a>
-                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow " x-placement="top-end" style="position: absolute; transform: translate3d(-160px, -53px, 0px); top: 0px; left: 0px; will-change: transform;">
-                                            <a class="dropdown-item" href="javascript:void(0);">Approve</a>
-                                            <a class="dropdown-item" href="javascript:void(0);">Reject</a>
-
-                                        </div>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>CHARO SANITA</td>
-                                <td>31044927</td>
-                                <td>12345667</td>
-                                <td>EWAJIBU</td>
-                                <td>TIMS</td>
-                                <td>E/2022/Q2</td>
-                                <td>PH-5THQ2</td>
-                                <td class="text-center" style="">
-                                    <div class="dropdown ">
-                                        <a class="btn btn-sm btn-icon-only text-light" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                                            <i class="fas fa-ellipsis-v"></i>
-                                        </a>
-                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow " x-placement="top-end" style="position: absolute; transform: translate3d(-160px, -53px, 0px); top: 0px; left: 0px; will-change: transform;">
-                                            <a class="dropdown-item" href="javascript:void(0);">Approve</a>
-                                            <a class="dropdown-item" href="javascript:void(0);">Reject</a>
-
-                                        </div>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>CHARO SANITA</td>
-                                <td>31044927</td>
-                                <td>12345667</td>
-                                <td>EWAJIBU</td>
-                                <td>TIMS</td>
-                                <td>E/2022/Q2</td>
-                                <td>PH-5THQ2</td>
-                                <td class="text-center" style="">
-                                    <div class="dropdown ">
-                                        <a class="btn btn-sm btn-icon-only text-light" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                                            <i class="fas fa-ellipsis-v"></i>
-                                        </a>
-                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow " x-placement="top-end" style="position: absolute; transform: translate3d(-160px, -53px, 0px); top: 0px; left: 0px; will-change: transform;">
-                                            <a class="dropdown-item" href="javascript:void(0);">Approve</a>
-                                            <a class="dropdown-item" href="javascript:void(0);">Reject</a>
-
-                                        </div>
-                                    </div>
-                                </td>
-                            </tr>
-
+                                <td>EWAJIBU@GMAIL.COM</td>
+                                <td>22-10-2022</td>
+                                <td><span class="badge badge-success">Valid</span></td>
+                                                           </tr>
+                        
 
                         </tbody>
                     </table>
